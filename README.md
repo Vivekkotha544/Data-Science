@@ -1,6 +1,6 @@
 # Data-Science
 
-# Vivek Vardhan Reddy Kotha's Data Science Repository
+# Vivek Vardhan's Data Science Repository
 
 Welcome to my personal GitHub repository! My name is Vivek Vardhan Reddy Kotha, a passionate and aspiring data scientist currently pursuing a Bachelor of Technology (B.Tech) in Data Science at CMR College of Engineering. This repository is a reflection of my journey in the vast and intriguing field of data science.
 
